@@ -1,0 +1,2 @@
+This file was created with fs library!
+Test data with append method
